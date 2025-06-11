@@ -1,0 +1,33 @@
+[submodule "drivers/external/hf-tmc9660-driver"]
+	path = drivers/external/hf-tmc9660-driver
+	url = https://github.com/N3b3x/hf-tmc9660-driver.git
+[submodule "drivers/external/hf-as5047u-driver"]
+	path = drivers/external/hf-as5047u-driver
+	url = https://github.com/N3b3x/hf-as5047u-driver.git
+[submodule "drivers/external/hf-pcal95555-driver"]
+	path = drivers/external/hf-pcal95555-driver
+	url = https://github.com/N3b3x/hf-pcal95555-driver.git
+[submodule "drivers/external/hf-bno08x-driver"]
+	path = drivers/external/hf-bno08x-driver
+	url = https://github.com/N3b3x/hf-bno08x-driver.git
+[submodule "drivers/external/hf-ws2812-rmt-driver"]
+	path = drivers/external/hf-ws2812-rmt-driver
+	url = https://github.com/N3b3x/hf-ws2812-rmt-driver.git
+[submodule "drivers/internal/hf-internal-interface-wrap"]
+	path = drivers/internal/hf-internal-interface-wrap
+	url = https://github.com/N3b3x/hf-internal-interface-wrap.git
+[submodule "drivers/internal/hf-pincfg"]
+	path = drivers/internal/hf-pincfg
+	url = https://github.com/N3b3x/hf-pincfg.git
+[submodule "utils/hf-utils-general"]
+	path = utils/hf-utils-general
+	url = https://github.com/N3b3x/hf-utils-general.git
+[submodule "utils/hf-utils-rtos-wrap"]
+	path = utils/hf-utils-rtos-wrap
+	url = https://github.com/N3b3x/hf-utils-rtos-wrap.git
+[submodule "utils/hf-utils-thread-safe"]
+	path = utils/hf-utils-thread-safe
+	url = https://github.com/N3b3x/hf-utils-thread-safe.git
+[submodule "utils/hf-utils-canopen"]
+	path = utils/hf-utils-canopen
+	url = https://github.com/N3b3x/hf-utils-canopen.git

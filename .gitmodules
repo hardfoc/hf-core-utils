@@ -1,0 +1,12 @@
+[submodule "hf-utils-general"]
+	path = hf-utils-general
+	url = https://github.com/N3b3x/hf-utils-general.git
+[submodule "hf-utils-rtos-wrap"]
+	path = hf-utils-rtos-wrap
+	url = https://github.com/N3b3x/hf-utils-rtos-wrap.git
+[submodule "hf-utils-canopen"]
+	path = hf-utils-canopen
+	url = https://github.com/N3b3x/hf-utils-canopen.git
+[submodule "hf-utils-thread-safe"]
+	path = hf-utils-thread-safe
+	url = https://github.com/N3b3x/hf-utils-thread-safe.git
